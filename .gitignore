@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data: ignore everything under data/raw and data/processed, keep folder placeholders
+data/raw/**
+data/processed/**
+!data/raw/**/
+!data/processed/**/
+!**/.gitkeep
