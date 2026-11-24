@@ -3,3 +3,5 @@ pyarrow
 numpy
 matplotlib
 jupyter
+scikit-learn
+statsmodels
