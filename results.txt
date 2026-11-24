@@ -1,0 +1,1438 @@
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/build_profile.py:47: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  df["weekend"] = df["timestamp"].dt.dayofweek >= 5
+363 days found, skipping 6 outage days
+
+Historical-median baseline (built Oct-Jun, tested Jul-Sep, 11,855,084 readings):
+  MAE all hours: 3.30 mph | peak hours: 4.38 mph | off-peak: 2.85 mph
+  Readings off by more than 20 mph: 2.9%
+
+Profile: 413,230 rows
+Stations with a trusted profile for all 576 slots (288 weekday + 288 weekend): 673 of 991
+Stations with some trusted slots: 706 | with none (no usable real data): 285
+python: can't open file '/Users/nishanttiwari/Desktop/freeway_incident_detection_ie/src/label_incidents.py': [Errno 2] No such file or directory
